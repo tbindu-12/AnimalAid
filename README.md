@@ -1,2 +1,3 @@
 # AnimalAid
-Project is done using HTML, CSS &amp; BOOTSTRAP.
+During the technical fest at my college, 'Strides,' I had the responsibility of coordinating an event called 'Web Visage.'
+As part of this event, I guided participants in designing web pages based on specific requirements. In addition to my role as coordinator, I also developed my own web project using HTML, CSS, and Bootstrap. The project focused on creating a responsive and visually appealing web page, aligning with modern design standards. This experience allowed me to showcase my technical skills, including front-end development and design, while also honing my leadership and event management abilities. It was a great opportunity to blend creativity with technical proficiency in a real-world setting.
