@@ -1,0 +1,89 @@
+img{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+
+}
+.bac{
+    background-image:url("https://media.zenfs.com/en/pethelpful_915/0ec3f888fd23cab467b8343e911df15c");
+    background-size:cover;
+    height:105vh;
+}
+.colo{
+    background-color: rgba(159, 165, 165, 0.479);
+}
+.space{
+    padding:20px;
+}
+.form{
+    background-color:rgba(205, 208, 208, 0.519);
+    border-radius:10px;
+    margin:10px;
+    padding:5px;
+}
+.spac_{
+    margin:30px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://th.bing.com/th/id/R.bd1f03f6c879db727298b4967645e818?rik=EcfpEcLWZV%2bp2A&riu=http%3a%2f%2fwww.flretrieverrescue.org%2fwp-content%2fuploads%2f2015%2f01%2fHeaderFARR-960x360.jpg&ehk=ciBVwV0BK%2b3a8QhjN3PzwPmbzQ83jWLCdQ6QBtzQ82s%3d&risl=&pid=ImgRaw&r=0");
+    height: 62vh;
+    background-size: cover;
+    
+}
+
+.mh {
+    text-align: center;
+    color: white;
+    margin:30px;
+}
+
+.bg2-container {
+    background-image:url("https://res.cloudinary.com/dmrst5kbi/image/upload/v1708680690/dog_acd753.jpg");
+    height: 50vh;
+    width:80vw;
+    background-size: cover;
+    margin: 20px;
+    padding:20px;
+}
+
+.h2 {
+    font-size: 22px;
+    font-style: italic;
+    font-family: "Sans-Serif";
+    color: white;
+}
+
+.paras {
+    font-size: 16px;
+    font-style: italic;
+    font-family: "Sans-Serif";
+    color: white;
+}
+
+.card {
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+    color: rgb(31, 27, 27);
+    height: 200px;
+   
+
+}
+
+.ob {
+    color: white;
+    height: 40px;
+    border-color: white;
+    border-radius: 12px;
+    background-color: orange;
+    font-family: "Sans-Serif";
+    font-style: italic;
+    margin-bottom:20px ;
+}
+.ch{
+    margin:50px;
+    border-radius:10px;
+}
